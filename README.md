@@ -121,7 +121,7 @@ MIT License - Feel free to use this project for educational purposes
 
 ## 👤 Author
 
-Varun Raja  
+Vinay Raja  
 [vraja005@gmail.com]  
 [[LinkedIn Profile](https://www.linkedin.com/in/vinay-raja-5aaa0b24b/)]  
 [GitHub](https://github.com/vraja05)
