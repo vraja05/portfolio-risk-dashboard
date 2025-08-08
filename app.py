@@ -66,7 +66,7 @@ default_weights = [0.25, 0.25, 0.20, 0.15, 0.15]
 data_source = st.sidebar.radio(
     "Data Source:",
     ["Live Data (Yahoo Finance)", "Sample Data (Demo)"],
-    index=0,  # Default to live data
+    index=1,  # Default to live data
     help="Use Sample Data if live data is not working due to network issues"
 )
 
