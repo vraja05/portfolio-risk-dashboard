@@ -6,7 +6,7 @@ A real-time portfolio risk management dashboard built with Python and Streamlit,
 
 ## 🚀 Live Demo
 
-[View Live Dashboard](https://portfolio-risk-dashboard.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://portfolio-risk-dashboard-w7fsqsbyfp8rwtqrtdfaw2.streamlit.app)
 
 ## 📊 Features
 
