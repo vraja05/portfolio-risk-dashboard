@@ -1,7 +1,5 @@
 # Portfolio Risk Analytics Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://portfolio-risk-dashboard.streamlit.app)
-
 A real-time portfolio risk management dashboard built with Python and Streamlit, designed to demonstrate quantitative finance and data analytics skills for investment analysis roles.
 
 ## 🚀 Live Demo
